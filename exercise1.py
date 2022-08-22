@@ -1,2 +1,9 @@
-print("hello world, this is first test to upload to git")
-print("added a line")
+def get_choices():
+    player_choice = "rock"
+    computer_choice = "paper"
+
+    return computer_choice
+
+
+choices = get_choices()
+print(choices)

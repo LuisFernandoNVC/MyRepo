@@ -1,2 +1,3 @@
 # MyRepo
-This is for practice
+
+Project 1 : Rock, paper, scissors.
